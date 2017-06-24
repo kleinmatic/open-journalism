@@ -22,6 +22,7 @@
 * [BuzzFeed](https://github.com/BuzzFeed)
 * [BuzzFeedNews](https://github.com/BuzzFeedNews)
 * [Buzzfeed OpenLab](https://github.com/buzzfeed-openlab)
+* [Center for Public Integrity](https://github.com/PublicI)
 * [Chicago Tribune News Applications Team](https://github.com/newsapps)
 * [Dallas Morning News](https://github.com/dallasmorningnews)
 * [Denver Post](https://github.com/denverpost)
